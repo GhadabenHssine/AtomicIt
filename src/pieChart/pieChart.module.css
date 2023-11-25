@@ -1,0 +1,34 @@
+.con {
+    direction: rtl;
+
+}
+
+.title {
+    text-align: center;
+    font-family: 'Cairo', sans-serif;
+    font-size: 27px;
+    padding: 20px;
+    color: #0473a5;
+    font-weight: bold;
+}
+
+.containerPie {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+
+.piechartCon {
+    /* width: 900px; */
+}
+
+.th {
+    background-color: #ffd6de !important;
+    width: 200px;
+}
+
+.td {
+    background-color: #cbe5fe !important;
+}

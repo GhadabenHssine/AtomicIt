@@ -1,0 +1,16 @@
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    flex-wrap: wrap;
+    background-color: #e1daf9;
+    font-family: 'Cairo', sans-serif;
+
+    font-weight: bold;
+}
+
+.items i {
+    margin-right: 15px;
+    font-size: 20px;
+}
