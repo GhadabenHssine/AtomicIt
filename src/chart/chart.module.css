@@ -36,7 +36,7 @@
 
 
 .featuredMony {
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 600;
     /* color: #00f; */
 }
@@ -92,7 +92,7 @@
     margin: 0px 20px;
     padding: 15px;
     height: 100%;
-
+    margin-bottom: 20px;
     border-radius: 10px;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
@@ -139,9 +139,11 @@
 }
 
 .blocTitle {
-    border-bottom: 3px solid #000;
+    border-bottom: 3px solid #f3f3f3;
     text-align: center;
-    background-color: #ffd6de;
+    background-color: #434194;
+    color: white;
+    border-radius: 5px;
 
 }
 
@@ -149,11 +151,13 @@
     display: flex;
     justify-content: space-between;
     font-weight: 600;
+    background-color: #00b2e1;
+    color: white;
 
 }
 
 .box1 {
-    border-right: 3px solid #000;
+    border-right: 3px solid #f3f3f3;
     padding: 20px;
 
 }
@@ -185,10 +189,4 @@
 .ChartR {
     width: 900px;
     height: 400px;
-}
-
-@media screen and (max-width: 600px) {
-    .parent {
-        margin-left: 70px;
-    }
 }

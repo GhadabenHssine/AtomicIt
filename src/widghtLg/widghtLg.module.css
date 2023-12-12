@@ -1,11 +1,15 @@
 .WidghtLg {
-    background-image: url("../img/WhatsApp\ Image\ 2023-11-24\ at\ 13.02.05.jpeg");
-    /* height: 100vh; */
+    /* background-image: url("../img/WhatsApp\ Image\ 2023-11-24\ at\ 13.02.05.jpeg");
+    
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     margin-top: 50px;
-    /* height: 100vh; */
+  
+    
+    */
+    background-color: #f3f3f3;
+
 }
 
 .container {
@@ -21,6 +25,7 @@
 #table {
     direction: rtl;
     max-width: 950px;
+    text-align: center;
 }
 
 .calen {
@@ -41,15 +46,5 @@
     font-weight: bold;
     font-family: 'Cairo', sans-serif;
     text-align: center;
-}
-
-@media screen and (max-width: 900px) {
-    .WidghtLg {
-        background-image: none;
-    }
-
-    .container {
-        padding: 0px;
-
-    }
+    color: #434194
 }

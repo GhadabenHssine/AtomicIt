@@ -1,0 +1,244 @@
+.partieBlue {
+    background-color: #434194;
+    /* height: 400px; */
+    border-bottom-left-radius: 150px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.porcentage {
+    direction: rtl;
+}
+
+.blocPar {
+    padding: 50px;
+}
+
+#earth {
+
+    width: 50px;
+    font-size: 40px;
+
+}
+
+.partieone {
+    color: #e4e1e1;
+}
+
+.titlelogo {
+
+    padding-right: 50px;
+}
+
+.partieTwo {
+    padding-right: 50px;
+    color: white;
+}
+
+.titleTwo {
+    font-weight: 600;
+    font-size: 30px;
+    letter-spacing: 1.6px;
+}
+
+.paragrapheOne {
+    color: #67cceb;
+}
+
+.suTitle {
+    border-bottom: 1px solid white;
+    letter-spacing: 1.6px;
+    font-size: 15px;
+
+}
+
+.blocTwo {
+    padding: 50px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 20px;
+    color: white;
+}
+
+.cercleOne {
+
+    /* background: linear-gradient(90deg, #870ea5, #a32673);
+    width: 200px;
+    height: 380px;
+    border-radius: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 20px; */
+    background-image: url('../img/téléchargement.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 90px;
+
+    width: 200px;
+    height: 380px;
+    margin-bottom: 20px;
+}
+
+.content {
+    width: 200px;
+    height: 380px;
+    border-radius: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 20px;
+    background-color: rgba(212, 0, 255, 0.5);
+}
+
+.cercleTwo {
+    /* background: linear-gradient(90deg, #60afc3, #2e5cbf);
+    width: 200px;
+    height: 380px;
+    border-radius: 90px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 20px; */
+
+    background-image: url('../img/téléchargement\ \(1\).jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 90px;
+
+    width: 200px;
+    height: 380px;
+    margin-bottom: 20px;
+}
+
+.contenttwo {
+    width: 200px;
+    height: 380px;
+    border-radius: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 20px;
+    background-color: rgba(59, 178, 247, 0.5);
+}
+
+.cercleThree {
+    /* background: linear-gradient(90deg, #42f14b, #2ebf91);
+    width: 200px;
+    height: 380px;
+    border-radius: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 20px; */
+    background-image: url('../img/المسلمون-في-أمريكا.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 90px;
+
+    width: 200px;
+    height: 380px;
+    margin-bottom: 20px;
+}
+
+.contentthree {
+    width: 200px;
+    height: 380px;
+    border-radius: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 20px;
+    background-color: rgba(43, 255, 0, 0.5);
+}
+
+.contentFor {
+    width: 200px;
+    height: 380px;
+    border-radius: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 20px;
+    background-color: rgba(255, 238, 0, 0.5);
+}
+
+.cercleFor {
+    /* background: linear-gradient(90deg, rgb(212, 255, 57), #8c9600);
+    width: 200px;
+    height: 380px;
+    border-radius: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 20px; */
+
+    background-image: url('../img/téléchargement\ \(2\).jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 90px;
+
+    width: 200px;
+    height: 380px;
+    margin-bottom: 20px;
+}
+
+.cercleSexe {
+    /* background: linear-gradient(90deg, #f8bdc9, #a5cef5);
+    width: 200px;
+    height: 380px;
+    border-radius: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 20px; */
+    background-image: url('../img/watermark_1654629923164_itaMy.jpeg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 90px;
+
+    width: 200px;
+    height: 380px;
+    margin-bottom: 20px;
+
+}
+
+.contentfive {
+    width: 200px;
+    height: 380px;
+    border-radius: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 20px;
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+.paragraphePo {
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.numberPo {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.parametre {
+    width: 300px;
+}

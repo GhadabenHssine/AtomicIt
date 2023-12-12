@@ -8,13 +8,13 @@ const Footer = () => {
 
             <div className={styles.items}>
 
-                <i className="fa-brands fa-whatsapp"></i>
-                <i className="fa-brands fa-twitter"></i>
-                <i class="fa-brands fa-facebook"></i>
-                <i class="fa-brands fa-youtube"></i>
+                <i className="fa-brands fa-whatsapp" id={styles.iconFooter}></i>
+                <i className="fa-brands fa-twitter" id={styles.iconFooter}></i>
+                <i class="fa-brands fa-facebook" id={styles.iconFooter}></i>
+                <i class="fa-brands fa-youtube" id={styles.iconFooter}></i>
 
             </div>
-            <div>
+            <div className={styles.titleFooter}>
                 كل الحقوق محفوظة بواسطة منصة بلاغ 2023
             </div>
 

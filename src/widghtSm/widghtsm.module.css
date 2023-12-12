@@ -1,0 +1,253 @@
+.WidghtSm {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px;
+    flex: 4;
+
+
+}
+
+.WidghtSmBlocOne {
+    flex: 3;
+    background-color: white;
+    box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1);
+    direction: rtl;
+    padding: 20px;
+}
+
+.WidghtSmBlocTwo {
+    flex: 1;
+    background-color: white;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+    direction: rtl;
+    padding: 20px;
+}
+
+.WidghtSmBlocOneTitle {
+    text-align: center;
+    color: #939ab1;
+    font-size: 25px;
+    font-weight: 700;
+    ;
+}
+
+.blocImg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.imgIcon {
+    width: 100px;
+    border-radius: 50%;
+    border: 1px solid #7a7979;
+    background: linear-gradient(#098ec2, #08ad7a);
+}
+
+.blocImgIcon {
+    border-radius: 50%;
+    border: 2px solid #eee;
+    padding: 5px;
+
+}
+
+.titlebloc {
+    text-align: center;
+    font-size: 55px;
+    font-weight: 900;
+    color: #a319c5;
+    font-family: Clement Numbers;
+}
+
+.titleblocT {
+    text-align: center;
+    color: #585757;
+    font-size: 35px;
+    font-weight: 400;
+
+}
+
+.boxs {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.box1 {
+    width: 200px;
+    height: 150px;
+    background-color: #82368c;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box2 {
+    width: 200px;
+    height: 150px;
+    background-color: #decce2;
+
+    ;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* 
+.box2>p {
+    color: #1479a8
+} */
+
+.box3 {
+    width: 200px;
+    height: 150px;
+    background-color: #c2e9dc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box4 {
+    width: 200px;
+    height: 150px;
+    background-color: #01ad79;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box5 {
+    width: 200px;
+    height: 150px;
+    background-color: #cae7f9;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box6 {
+    width: 200px;
+    height: 150px;
+    background-color: #00aee5;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box7 {
+    width: 200px;
+    height: 150px;
+    background-color: #710bc4;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box8 {
+    width: 200px;
+    height: 150px;
+    background-color: #8f9fb8;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box9 {
+    width: 200px;
+    height: 150px;
+    background-color: #8f9fb8;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box10 {
+    width: 200px;
+    height: 150px;
+    background-color: #dee2eb;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.blocnum1 {
+    padding: 50px;
+
+    color: #098ec2;
+    font-weight: 700;
+    font-size: 30px;
+    font-family: Clement Numbers;
+}
+
+.blocnum2 {
+    padding: 50px;
+    color: #08ad7a;
+    font-weight: 700;
+    font-size: 30px;
+    font-family: Clement Numbers
+}
+
+.box1Title {
+    color: white;
+    font-weight: 900;
+    font-size: 35px;
+    font-family: Clement Numbers
+}
+
+.titleblocTi {
+    text-align: center;
+    color: #909ab4;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 30px;
+
+    margin-bottom: 30px;
+}
+
+.dot {
+    color: #56026b;
+    border-radius: 5px;
+    font-family: Clement Numbers;
+    font-size: 75px;
+    font-weight: bold;
+
+
+}
+
+.titlebloc1 {
+    width: 300px;
+    background-color: #19c566;
+    box-shadow: rgba(149, 157, 165, 1.2) 0px 8px 24px;
+    padding: 10px;
+    text-align: center;
+    color: white
+}
+
+.icon {
+    width: 100px;
+    margin: 20px;
+}

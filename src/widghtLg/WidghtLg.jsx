@@ -14,49 +14,49 @@ const WidghtLg = () => {
                 <table className="table" id={styles.table}>
                     <thead>
                         <tr>
-                            <th scope="col"></th>
-                            <th scope="col">	فرنسي</th>
-                            <th scope="col">برتغالي</th>
-                            <th scope="col">	الإجمالي</th>
-                            <th scope="col">	المجموع الكلى من بدايتنا 9/10/2022</th>
+                            <th scope="col" style={{ backgroundColor: "#00b2e1", color: "white", textAlign: "center" }}></th>
+                            <th scope="col" style={{ backgroundColor: "#00b2e1", color: "white", textAlign: "center" }}>	فرنسي</th>
+                            <th scope="col" style={{ backgroundColor: "#00b2e1", color: "white", textAlign: "center" }}>برتغالي</th>
+                            <th scope="col" style={{ backgroundColor: "#00b2e1", color: "white", textAlign: "center" }}>	الإجمالي</th>
+                            <th scope="col" style={{ backgroundColor: "#00b2e1", color: "white", textAlign: "center" }}>	المجموع الكلى من بدايتنا 9/10/2022</th>
                         </tr>
                     </thead>
                     <tbody className="table-group-divider">
                         <tr className="table-light">
-                            <th scope="row">رسالتنا وصلت</th>
-                            <td>13.582.153</td>
-                            <td>318.970</td>
-                            <td>274.730</td>
-                            <td>13.582.153</td>
+                            <th scope="row" style={{ backgroundColor: "  #d4d2e0", color: "#6f7886" }}>رسالتنا وصلت</th>
+                            <td style={{ backgroundColor: "#fff" }}>13.582.153</td>
+                            <td style={{ backgroundColor: "#fff" }}>318.970</td>
+                            <td style={{ backgroundColor: "#fff" }}>274.730</td>
+                            <td style={{ backgroundColor: "#fff" }}>13.582.153</td>
                         </tr>
                         <tr>
-                            <th scope="row">عدد الذين تم تعريفهم بالإسلام</th>
+                            <th scope="row" style={{ backgroundColor: "  #d4d2e0", color: "#6f7886" }}>عدد الذين تم تعريفهم بالإسلام</th>
                             <td>949</td>
                             <td>927	</td>
                             <td>1.876</td>
                             <td>57.611</td>
                         </tr>
                         <tr className="table-light">
-                            <th scope="row">عدد الدخلين في الأسلام</th>
-                            <td >269	</td>
-                            <td>447</td>
-                            <td>716</td>
-                            <td>11.587</td>
+                            <th scope="row" style={{ backgroundColor: "  #d4d2e0", color: "#6f7886" }}>عدد الدخلين في الأسلام</th>
+                            <td style={{ backgroundColor: "#fff" }}>269	</td>
+                            <td style={{ backgroundColor: "#fff" }}>447</td>
+                            <td style={{ backgroundColor: "#fff" }}>716</td>
+                            <td style={{ backgroundColor: "#fff" }}>11.587</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">عدد مجموعات تعلم المسلم الجديد</th>
+                            <th scope="row" style={{ backgroundColor: "  #d4d2e0", color: "#6f7886" }}>عدد مجموعات تعلم المسلم الجديد</th>
                             <td>20</td>
                             <td>12</td>
                             <td>32</td>
                             <td>241</td>
                         </tr>
                         <tr className="table-light">
-                            <th scope="row">عدد الخرجين</th>
-                            <td >126</td>
-                            <td>280</td>
-                            <td >406</td>
-                            <td >6.522</td>
+                            <th scope="row" style={{ backgroundColor: "  #d4d2e0", color: "#6f7886" }}>عدد الخرجين</th>
+                            <td style={{ backgroundColor: "#fff" }} >126</td>
+                            <td style={{ backgroundColor: "#fff" }}>280</td>
+                            <td style={{ backgroundColor: "#fff" }}>406</td>
+                            <td style={{ backgroundColor: "#fff" }} >6.522</td>
 
                         </tr>
                     </tbody>

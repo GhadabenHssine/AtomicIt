@@ -4,7 +4,7 @@
     justify-content: space-between;
     padding: 20px;
     flex-wrap: wrap;
-    background-color: #e1daf9;
+    background-color: #f3f3f3;
     font-family: 'Cairo', sans-serif;
 
     font-weight: bold;
@@ -13,4 +13,12 @@
 .items i {
     margin-right: 15px;
     font-size: 20px;
+}
+
+.titleFooter {
+    color: #434194;
+}
+
+#iconFooter {
+    color: #434194;
 }

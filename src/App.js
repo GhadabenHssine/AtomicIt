@@ -7,6 +7,9 @@ import PieChart from './pieChart/PieChart';
 import WidghtLg from './widghtLg/WidghtLg';
 
 import TopBar from './Topbar/TopBar';
+import Porcentage from './porcentage/Porcentage';
+import WidghtSm from './widghtSm/WidghtSm';
+import ReplacePie from './replacePie/ReplacePie';
 
 function App() {
   return (
@@ -15,9 +18,11 @@ function App() {
 
       <Chart />
 
-
+      <Porcentage />
       <WidghtLg />
-      <PieChart />
+
+      <WidghtSm />
+      <ReplacePie />
       <Footer />
 
 

@@ -57,7 +57,7 @@ const Chart = () => {
                 <div className={styles.featuredItem2}>
                     <div className={styles.featuredItem}>
                         <span className={styles.featuredMonyRate}>
-                            <i id={styles.icon} className="fa-solid fa-language"></i>
+                            <i id={styles.icon} className="fa-solid fa-user-group"></i>
                         </span>
 
 
@@ -92,8 +92,27 @@ const Chart = () => {
                         </div>
                     </div>
                 </div>
-
                 <div className={styles.featuredItem4}>
+                    <div className={styles.featuredItem}>
+                        <span className={styles.featuredMonyRate}>
+                            <i id={styles.icon} className="fa-solid fa-globe"></i>
+                        </span>
+
+
+                        <span></span>
+                        <div className={styles.featuredMoneyContainer}>
+
+                            <div className={styles.featuredMony}>
+                                3
+                            </div>
+                            <div className={styles.featuredTitle1}>
+                                الدول
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                {/* <div className={styles.featuredItem4}>
 
 
                     <div className={styles.featuredItem}>
@@ -115,7 +134,7 @@ const Chart = () => {
                     </div>
 
 
-                </div>
+                </div> */}
 
             </div>
 
